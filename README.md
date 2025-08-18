@@ -8,4 +8,5 @@
 
 [![MySkills](https://skillicons.dev/icons?i=js,discordjs,nodejs,vscode,mongodb)](https://skillicons.dev)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1377378882692448427)](https://discord.com/users/1377378882692448427) [![Discord Presence](https://lanyard.cnrad.dev/api/1175923146734440462)](https://discord.com/users/1175923146734440462)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1377378882692448427)](https://discord.com/users/1377378882692448427) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1175923146734440462)](https://discord.com/users/1175923146734440462)
