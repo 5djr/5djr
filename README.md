@@ -13,11 +13,11 @@ I am a **self‑taught developer** specializing in **APIs** and **Discord bots**
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=5djr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=5djr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=5djr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=5djr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=5djr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## Contact:
-Feel free to reach out through Discord or GitHub!## **EXPOSE**
+Feel free to reach out through Discord or GitHub!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=5djr&icon=0&color=0)](https://visitcount.itsvg.in)
